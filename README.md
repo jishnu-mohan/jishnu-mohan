@@ -9,10 +9,17 @@
 ## Experience
 
 **Treez Inc.** — Software Development Engineer II *(Mar 2022 – Present)*
-> Architecting event-driven microservices for retail AI — automated invoice processing, LLM-powered catalog onboarding, and distributed event processing handling 5K+ events/day with 99.9%+ reliability.
+- Architected a Retail AI Platform with event-driven microservices for automated invoice processing and catalog onboarding with AI agent orchestration
+- Integrated LLM-based description agents and vision-driven image discovery agents into catalog workflows, automating product content generation
+- Designed a distributed Product Collection Service using EventBridge and SQS, processing 5K+ events/day with 99.9%+ reliability
+- Built an internal Event Registry (from hackathon to shared platform) for event schema discovery across 10+ services
+- Implemented secure authentication with AWS Cognito, SSO, and role-based access control across platform services
 
 **Diagnal Technologies** — Software Development Engineer *(May 2019 – Feb 2022)*
-> Built serverless backends for 3 OTT streaming apps handling millions of requests/month using AWS Lambda, API Gateway, and DynamoDB.
+- Developed serverless backend services for 3 OTT applications handling millions of requests/month using AWS Lambda, API Gateway, and DynamoDB
+- Built scalable REST and GraphQL APIs for content delivery, user authentication, and CMS workflows
+- Configured CI/CD pipelines with GitHub Actions and CircleCI for zero-downtime production releases
+- Collaborated directly with clients on requirements gathering, planning, and estimating backend activities
 
 ---
 
