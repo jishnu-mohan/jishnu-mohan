@@ -1,70 +1,33 @@
-# Hi, I'm Jishnu Mohan 👋
+# Hey, I'm Jishnu 👋
 
-**Backend Engineer | Building Distributed Systems & AI-Powered Platforms**
+I build backends that don't fall over. Distributed systems, event-driven architectures, and lately a lot of AI-agent plumbing, the kind of stuff that quietly powers products at scale.
 
-7+ years designing resilient, event-driven architectures for high-traffic SaaS platforms. Currently building AI-enabled retail products at **Treez Inc.** — focused on distributed systems, LLM integration, and cloud-native backends on AWS.
+Currently at **Treez Inc.**, where I work on AI-enabled retail platforms: invoice processing, catalog onboarding, and getting LLMs and agents to do real production work instead of demos.
 
----
-
-## Experience
-
-**Treez Inc.** — Software Development Engineer II *(Mar 2022 – Present)*
-- Architected a Retail AI Platform with event-driven microservices for automated invoice processing and catalog onboarding with AI agent orchestration
-- Integrated LLM-based description agents and vision-driven image discovery agents into catalog workflows, automating product content generation
-- Designed a distributed Product Collection Service using EventBridge and SQS, processing 5K+ events/day with 99.9%+ reliability
-- Built an internal Event Registry (from hackathon to shared platform) for event schema discovery across 10+ services
-- Implemented secure authentication with AWS Cognito, SSO, and role-based access control across platform services
-
-**Diagnal Technologies** — Software Development Engineer *(May 2019 – Feb 2022)*
-- Developed serverless backend services for 3 OTT applications handling millions of requests/month using AWS Lambda, API Gateway, and DynamoDB
-- Built scalable REST and GraphQL APIs for content delivery, user authentication, and CMS workflows
-- Configured CI/CD pipelines with GitHub Actions and CircleCI for zero-downtime production releases
-- Collaborated directly with clients on requirements gathering, planning, and estimating backend activities
+- Into event-driven systems, serverless on AWS, and making LLMs behave in production
+- I like building developer tooling — recently shipped Claude Code skills & plugins my whole org now uses to spin up services, dig through pod logs, and chase down DB issues
+- Always poking at AI agents, MCP, and where they actually save time
+- Ask me about distributed systems, event-driven design, or why your Lambda is timing out
+- Outside work: vibe-coding side projects (a 3D lithophane generator, browser extensions, the usual rabbit holes)
 
 ---
 
-## Tech Stack
+### What I work with
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Backend & APIs**
-
-![REST](https://img.shields.io/badge/REST-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square&logo=buffer&logoColor=white)
-![Event Driven](https://img.shields.io/badge/Event_Driven-FF6F00?style=flat-square&logo=apache-kafka&logoColor=white)
-
-**DevOps & Observability**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-**AI & Automation**
-
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=robot-framework&logoColor=white)
+`TypeScript` · `Node.js` · `Python` · `AWS (Lambda, EventBridge, SQS, Cognito)` · `PostgreSQL` · `GraphQL` · `Docker` · `Kubernetes` · `Terraform` · `LLMs / AI Agents / MCP`
 
 ---
 
-## Connect
+### A few things I'm proud of
+
+- An event-driven Product Collection Service chewing through 50K+ events/day at 99.9%+ reliability
+- An internal Event Registry that started as a hackathon hack and became shared infra across 10+ services
+- LLM + vision agents that turned days of manual catalog work into hours
+- Claude Code tooling that other engineers actually adopted (the real test)
+
+---
+
+### Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jishnu-mohan/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11548462/jishnu)
